@@ -1,4 +1,5 @@
-```docker build -t pycharm-docker .```
+```docker build -t pycharm-docker .
+```
 
 ```docker run -it --rm \
   -v $(pwd):/project \
